@@ -7,10 +7,6 @@ background-repeat:no-repeat;
 text-align: center; /* pour corriger le bug de centrage IE */ 
 }
 
-a {
-	color: #0080ff;
-}
-
 #intro
 {
 	color: #df0101;

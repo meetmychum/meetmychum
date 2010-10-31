@@ -1,7 +1,7 @@
 body {
 
 background-color:#E6E6E6;
-background-image:url(../images/bgmyChum.jpg);
+background-image:url(../images/bgmychum.jpg);
 background-position:top ;
 background-repeat:no-repeat;
 text-align: center; /* pour corriger le bug de centrage IE */ 
@@ -19,5 +19,5 @@ text-align: center; /* pour corriger le bug de centrage IE */
 
 #contact
 {   
-   top:525px;  
+   top:575px;  
 }
