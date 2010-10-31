@@ -7,9 +7,15 @@ background-repeat:no-repeat;
 text-align: center; /* pour corriger le bug de centrage IE */ 
 }
 
+a {
+	color: #0080ff;
+}
+
 #intro
 {
-   top:185px;   
+	color: #df0101;
+    top:185px;
+    font-size: 12pt;   
 }
 
 #toi
