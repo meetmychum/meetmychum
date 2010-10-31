@@ -1,0 +1,33 @@
+body {
+
+background-color:#E6E6E6;
+background-image:url(../images/bg.jpg);
+background-position:top ;
+background-repeat:no-repeat;
+text-align: center; /* pour corriger le bug de centrage IE */ 
+}
+
+#intro
+{
+   top:185px;   
+}
+
+#toi
+{   
+   top:275px;  
+}
+
+#moi
+{   
+   top:370px;  
+}
+
+#toi_moi
+{   
+   top:480px;  
+}
+
+#contact
+{   
+   top:525px;  
+}

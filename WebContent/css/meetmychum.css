@@ -1,0 +1,43 @@
+
+
+#global
+{
+
+  position:relative;
+  margin-left: auto; 
+  margin-right: auto; 
+  margin-top:0px;
+  width:1000px;
+  text-align: left; 
+}
+
+.homePageText
+{
+   position:absolute;
+   width:450px;
+   left:50px;
+   color:black;
+
+   border:0px solid black;
+
+   font: 67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: 550;
+   font-size: 13px;
+   line-height: 1.4em;
+   text-align: center;
+}
+
+#menus
+{
+   border:0px solid black;
+   position:absolute;
+   left:502px;
+   top:110px;
+   width:499px;
+}
+
+
+
+
