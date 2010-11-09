@@ -1,17 +1,26 @@
 body {
-
-background-color:#E6E6E6;
-background-image:url(../images/bg.jpg);
-background-position:top ;
-background-repeat:no-repeat;
-text-align: center; /* pour corriger le bug de centrage IE */ 
+	background-repeat:repeat;
+	text-align: center; /* pour corriger le bug de centrage IE */
+	background-color:#E5E5E5;
 }
 
-#intro
+
+#schema
 {
-	color: #df0101;
-    top:185px;
-    font-size: 12pt;   
+   position: absolute;
+   top:40px;
+   left:370px;
+   
+}
+
+#presentation
+{
+    position: absolute;
+   top:40px;
+   left:10px;
+   width:330px;
+   height:500px;
+   border-right:1px solid #A5A5A5;   
 }
 
 #toi
