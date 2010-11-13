@@ -15,12 +15,29 @@ body {
 
 #presentation
 {
-    position: absolute;
-   top:40px;
-   left:10px;
-   width:330px;
-   height:500px;
-   border-right:1px solid #A5A5A5;   
+	position: absolute;
+	top:20px;
+	left:10px;
+	width:330px;
+	height:500px;
+	padding: 0;      
+}
+
+p
+{
+    font-size:0.8em;
+	color:#333333;
+	font-family:Arial,Helvetica,sans-serif;
+	font-weight:100;
+	
+}
+
+h2
+{
+	font-size:0.9em;
+	font-weight:bold;
+	font-family:Arial,Helvetica,sans-serif;
+	color:#CB161D;
 }
 
 #toi
