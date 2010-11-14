@@ -1,0 +1,28 @@
+wordpress-3.0.1
+---------------
+* add .htaccess (from admin page)
+* configure permalinks
+* configure akismet spam
+* meetmychum-wordpress-theme to wp-content/themes/mmc-boycrush
+* SexyBookmarks 3.2.4.2 : http://sexybookmarks.shareaholic.com/ (with bit.ly shortener)
+
+bbpress-1.0.2
+-------------
+* add .htaccess (from admin page)
+* configure permalinks
+* configure akismet spam
+* copy meetmychum-bbpress-theme to my-templates/mmc-kakumei
+* Additional plugins
+** bbPM 1.0.1 : http://bbpress.org/plugins/topic/bbpm/
+** bbcode Lite 1.0.5 : http://bbpress.org/plugins/topic/bbcode-lite/
+** bbcode Buttons 0.0.9 : http://bbpress.org/plugins/topic/bbcode-buttons/
+** Social It 1.5 : http://bbpress.org/plugins/topic/social-it/ (with bit.ly shortener)
+** bbPress Moderation Suite 0.1-rc2 : http://bbpress.org/plugins/topic/bbpress-moderation-suite/ 
+
+wordpress and bbpress integration
+---------------------------------
+* http://bbpress.org/documentation/integration-with-wordpress/
+** wordpress bbpress integration plugin
+** cookie settings
+** shared user database
+** user mapping
