@@ -28,17 +28,19 @@ a {
 {
    position:absolute;
    top:25px;
-   left:700px;
+   left:400px;
    
 }
 #menus
 {
    border:0px solid black;
    position:absolute;
-   left:130px;
-   top:130px;
+   left:700px;
+   top:95px;
    width:335px;
 }
+
+
 #content
 {
 	position:relative;
