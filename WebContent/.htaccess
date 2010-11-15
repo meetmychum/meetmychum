@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteRule ^fr$ index.html
-    RewriteRule ^en$ index-en.html
+    RewriteRule ^fr\/$ index.html
+    RewriteRule ^en\/$ index-en.html
 </IfModule>
